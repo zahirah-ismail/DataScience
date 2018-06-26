@@ -1,0 +1,14 @@
+apt - cl interface
+man apt- brings up th commands
+q - quits
+sudo apt-get update - undates all the information 
+sudo apt-get - install new package 
+htop - monitors processes
+tree - visualization of system
+cd~ = home directry
+clear - clear terminal
+touch filename.txt - create a file
+mv - rename file
+ge. mv test.txt new filename
+
+tmux new -s example - create new session
