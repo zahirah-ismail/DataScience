@@ -4,6 +4,9 @@ class Ix:
         self.name = name
         self.age = age
 
+
+
+
  def __ilovedsd__(self):
         print("i love data science")
 
@@ -13,5 +16,5 @@ student2 = Ix('Adam', 19)
 print(details.name)
 print(details.age)
 print("my name is: "+details.name+" and i am "+details.age+" old")
- 
+
 
